@@ -14,8 +14,13 @@
 </div>
 
 <div align='center'>
-    <sup>1 </sup>Ocean University of China&emsp; <sup>2 </sup>The Chinese University of Hong Kong&emsp; <sup>3 </sup>Zhejiang University&emsp; <sup>4 </sup>University at Buffalo SUNY&emsp;
+    <sup>1 </sup>Ocean University of China&emsp; <sup>2 </sup>The Chinese University of Hong Kong&emsp; <sup>3 </sup>Zhejiang University&emsp; 
 </div>
+
+<div align='center'>
+    <sup>4 </sup>University at Buffalo SUNY&emsp;
+</div>
+
 <div align='center'>
     <small><sup>*</sup> Corresponding author</small>
 </div>
@@ -34,7 +39,6 @@
 
 
 <p align="center">
-  🔥 Code has released.🔥
   <img src="./figures/overview.png" alt="showcase">
   <br>
 
